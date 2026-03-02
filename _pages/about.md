@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haixin Henry Zhong"
+title: "Haixin (Henry) Zhong"
 author_profile: true
 redirect_from:
   - /about/
